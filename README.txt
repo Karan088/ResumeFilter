@@ -1,4 +1,4 @@
-📁 resume-filtering/
+📁 ResumeFilter/
 │
 ├── 📁 Data Analyst - CVs/       			# Folder containing the 11 resume/CV PDFs
 ├── 📁 Data Analyst - JD/        			# Folder containing the JD PDF
